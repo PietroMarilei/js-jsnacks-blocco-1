@@ -15,3 +15,7 @@ if (firstNumber > secondNumber) {
 } else if (firstNumber < secondNumber) {
     document.querySelector("div").innerHTML = secondNumber;
 }
+
+// if (firstNumber = NaN || secondNumber = NaN ) {
+//     document.querySelector("div").innerHTML = "inserisci un numero";
+// }
