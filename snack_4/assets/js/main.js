@@ -3,13 +3,6 @@
 
 
 
-const invited = [
-    "paolo",
-    "franco",
-    "giulio"
-]
-
-const userName = prompt('quale é il tuo nome ?')
 
 // let hasAccess = false;
 // for (let i = 0; i < invited.length; i++) {
@@ -32,6 +25,14 @@ const userName = prompt('quale é il tuo nome ?')
 
 // non so perché non va 
 
+
+const invited = [
+    "paolo",
+    "franco",
+    "giulio"
+]
+
+const userName = prompt('quale é il tuo nome ?')
 
 let hasAccess = false;
 
